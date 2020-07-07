@@ -1,0 +1,14 @@
+In this lecture we are going to create some banners for projects
+to install packages
+
+
+sudo apt install toilet
+
+sudo apt install figlet
+
+
+figlet AI
+
+toilet AI
+
+toilet -f mono12 -F metal AI
